@@ -27,3 +27,18 @@ Seaborn (seaborn)	         Builds on Matplotlib to produce attractive and inform
 
 Warnings (warnings)	       Suppresses unnecessary warning messages for a cleaner notebook output.
 
+                                    # Data Manipulation
+                                    import pandas as pd
+                                    import numpy as np
+                                    
+                                    # Data Visualization
+                                    import matplotlib.pyplot as plt
+                                    import seaborn as sns
+                                    
+                                    # Ignore Warnings
+                                    import warnings
+                                    warnings.filterwarnings("ignore")
+                                    
+                                    # Display Settings
+                                    pd.set_option("display.max_columns", None)
+                                    pd.set_option("display.max_rows", 100)

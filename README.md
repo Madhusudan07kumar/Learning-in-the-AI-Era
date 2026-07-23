@@ -14,11 +14,15 @@ Importing Libraries
 
 This project begins by importing the essential Python libraries required for data manipulation, visualization, and environment            configuration. These libraries provide the foundation for performing Exploratory Data Analysis (EDA), cleaning the dataset, and           creating insightful visualizations.
 
-                                    Libraries Used
+**Libraries Used**
 Library	Purpose
 Pandas (pandas)	Used for loading, cleaning, transforming, and analyzing structured data.
+
 NumPy (numpy)	Provides support for numerical computations and mathematical operations.
+
 Matplotlib (matplotlib)	Used to create static charts and visualizations.
+
 Seaborn (seaborn)	Builds on Matplotlib to produce attractive and informative statistical visualizations.
+
 Warnings (warnings)	Suppresses unnecessary warning messages for a cleaner notebook output.
 

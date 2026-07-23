@@ -49,3 +49,5 @@ To read a CSV file with count of top 5 head and tail
                                       
                                     df.head()
                                     df.tail()
+
+<img width="949" height="473" alt="image" src="https://github.com/user-attachments/assets/2b7872e2-c889-4faf-be63-f1cb1bd3dccd" />

@@ -42,7 +42,9 @@ Warnings (warnings)	       Suppresses unnecessary warning messages for a cleaner
                                     # Display Settings
                                     pd.set_option("display.max_columns", None)
                                     pd.set_option("display.max_rows", 100)
+                                    
 To read a CSV file with count of top 5 head and tail
+                                 
                                     df = pd.read_csv("Student Data set.csv")
                                       
                                     df.head()
